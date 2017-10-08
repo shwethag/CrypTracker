@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrypTrack</string>
+    <string name="bitcoin" >Bitcoin price USD</string>
+</resources>
